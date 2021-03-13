@@ -1,4 +1,3 @@
-# FDS-1
 Algoritmos y estructura de datos
 ================================
 
